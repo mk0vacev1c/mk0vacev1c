@@ -4,8 +4,8 @@
 I'm Milos from Serbia, recently graduated from departmant IT. Passionate about tech stuff. Have some solid knowleadge in UI/UX design. Currently learning MEVN stack. Interested in new challenges, always learning new stuff, in free time casually I do gaming & sports.
 
 ## Skills
-* HTML / CSS / JS /  VUE JS / NODE JS / PHP 
-* PS / AI / XD
+* 💻 HTML / CSS / JS /  VUE JS / NODE JS / PHP 
+* 💻 PS / AI / XD
 
 
 
