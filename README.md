@@ -5,7 +5,7 @@ I'm Milos from Serbia, recently graduated from departmant IT. Passionate about t
 
 ## Skills
 * 💻 HTML / CSS / JS /  VUE JS / NODE JS / PHP 
-* 💻 PS / AI / XD
+* 💻 PS / AI / XD   https://www.behance.net/miloskovacevic
 
 
 
