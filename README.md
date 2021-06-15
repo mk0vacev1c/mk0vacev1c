@@ -1,7 +1,7 @@
 ![Design & Development](https://pbs.twimg.com/profile_banners/2716994627/1623689731/1500x500)
 
 #  Milos Kovacevic
-I'm Milos from Serbia, recently graduated from departmant IT. Passionate about tech stuff. Have some solid knowleadge in UI/UX design. Currently learning MEVN stack. Interested in new challenges, always learning new stuff, in free time casually I do gaming & sports.
+Milos is a recent Information Technology graduate from Serbia. Being passionate about tech stuff with solid knowledge of UI/UX design and programming, he is currently learning MEVN stack and always looking for challenges and learning new technologies.
 
 ## Skills
 * 💻 HTML / CSS / JS /  VUE JS / NODE JS / PHP 
