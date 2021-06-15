@@ -5,7 +5,7 @@ Milos is a recent Information Technology graduate from Serbia. Being passionate 
 
 ## Skills
 * 💻 HTML / CSS / JS /  VUE JS / NODE JS / PHP 
-* 💻 PS / AI / XD   https://www.behance.net/miloskovacevic
+* 💻 PS / AI / XD   https://www.behance.net/m_k0vacev1c_/
 
 
 
