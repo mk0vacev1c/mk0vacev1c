@@ -1,6 +1,8 @@
 ![Design & Development](https://pbs.twimg.com/profile_banners/2716994627/1672507736/1500x500)
 
 
+# Milos Kovacevic
+
 💬 You want something unique? Feel free to contact me :-)
 🎯 One thing at a time
 ⚡ Fun fact: Impossible is nothing.
@@ -13,7 +15,7 @@
 
 
 # Short story about me
-# Milos Kovacevic
+
 I am passionate Software Engineer💻, with focus on building unique, modern, maintanable software, as well as websites for all of Your needs.
 Milos is being working as a freelance developer and designer at most of his time.
 My goal is to make an impact on the world and create something unique software and help Your businesses to grow🚀.
