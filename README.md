@@ -2,6 +2,10 @@
 
 You want something unique? Feel free to contact me :-) 
 
+💬 Feel free to contact me for anything
+🎯 One thing at a time
+⚡ Fun fact: Impossible is nothing.
+
 
 #  Milos Kovacevic
 Milos is Information Technology engineer from Serbia. Being working as a freelance developer and designer at most of my time. 
