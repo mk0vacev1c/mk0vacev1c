@@ -4,11 +4,13 @@ You want something unique? Feel free to contact me :-)
 
 
 #  Milos Kovacevic
-Milos is a recent Information Technology graduate from Serbia. Being passionate about tech stuff with solid knowledge of UI/UX design and programming, he is currently learning MEVN stack and always looking for challenges and learning new technologies.
+Milos is Information Technology engineer from Serbia. Being working as a freelance developer and designer at most of my time. 
+Passionate about tech stuff with knowledge of UI/UX design and programming, he is currently looking for a new knowledge..
 
 ## Skills
-* 💻 HTML / CSS / JS /  VUE JS core / NODE JS core / Java core / PHP core 
-* 💻 PS / AI / XD   https://www.behance.net/m_k0vacev1c_/
+* 💻 HTML / CSS / JavaSript /  VUE JS core / NODE JS / React JS / Java / PHP / Wordpress / C / Kotlin  
+* 💻 GIT / Jira / SVN
+* 💻 PS / AI / XD / Figma / Corel    https://www.behance.net/m_k0vacev1c_/
 
 
 
