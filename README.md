@@ -1,8 +1,7 @@
 ![Design & Development](https://pbs.twimg.com/profile_banners/2716994627/1672507736/1500x500)
 
-You want something unique? Feel free to contact me :-) 
 
-💬 Feel free to contact me for anything
+💬 You want something unique? Feel free to contact me :-)
 🎯 One thing at a time
 ⚡ Fun fact: Impossible is nothing.
 
