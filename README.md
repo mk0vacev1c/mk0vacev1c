@@ -16,12 +16,10 @@
 
 # Short story about me
 
-I am passionate Software Engineer💻, with focus on building unique, modern, maintanable software, as well as websites for all of Your needs.
-Milos is being working as a freelance developer and designer at most of his time.
-My goal is to make an impact on the world and create something unique software and help Your businesses to grow🚀.
-Very commited, pasionate, hardworking individual looking for a new knowledge.
+As a passionate Software Engineer💻, I strive to build unique, modern, and maintainable software and websites to cater to all your needs. With years of experience working as a freelance developer and designer, my goal is to create impactful and innovative software solutions that help businesses grow and reach new heights🚀. 
+I am a dedicated, hardworking, and passionate individual who is always eager to learn and acquire new knowledge.
 
-Former athlete, amateur boxer, several times national and Balkan champion in different weight classes.
+Aside from my work in the tech industry, I have a background in athletics as an amateur boxer. I have won several national and Balkan championships in different weight classes, which has instilled in me a strong work ethic and discipline that I bring to all areas of my life.
 
 
 
