@@ -1,4 +1,4 @@
-![Design & Development](https://www.linkedin.com/in/milos-kovacevic-8a9262133/overlay/background-image)
+![Design & Development]([https://www.linkedin.com/in/milos-kovacevic-8a9262133/overlay/background-image](https://www.linkedin.com/in/milos-kovacevic-8a9262133/overlay/background-image/))
 
 
 # Milos Kovacevic
