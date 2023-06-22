@@ -1,4 +1,4 @@
-![Design & Development](https://pbs.twimg.com/profile_banners/2716994627/1672507736/1500x500)
+![Design & Development](https://pbs.twimg.com/profile_banners/2716994627/1687447654/1500x500)
 
 
 # Milos Kovacevic
