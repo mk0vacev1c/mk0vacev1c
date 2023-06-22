@@ -9,7 +9,7 @@
 
 
 ## Skills
-* 💻 HTML / CSS / JavaSript /  VUE JS core / NODE JS / React JS / Java / PHP / Wordpress / C / Kotlin  
+* 💻 HTML / CSS / JavaSript / NODE JS / React JS / PHP / Wordpress  
 * 💻 GIT / Jira / SVN
 * 💻 PS / AI / XD / Figma / Corel    https://www.behance.net/m_k0vacev1c_/
 
