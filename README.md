@@ -1,7 +1,7 @@
 ![Design & Development](https://pbs.twimg.com/profile_banners/2716994627/1690575517/1500x500)
 
 
-👋 Hi, I'm Milos Kovacevic! 👨‍💻
+### 👋 Hi, I'm Milos Kovacevic! 👨‍💻
 
 ### 📚 Fun Fact
 - 💬 You want something unique? Feel free to contact me 🙂
