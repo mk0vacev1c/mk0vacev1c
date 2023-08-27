@@ -28,7 +28,6 @@
 ### Tools
 - <img align="center" alt="Linux-command line" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> Linux-command line
 - <img align="center" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> GIT
-- <img align="center" alt="SVN" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svn/svn-original.svg" /> SVN
 - <img align="center" alt="Jenkins" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" /> Jenkins
 - <img align="center" alt="Jira" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" /> Jira
 
