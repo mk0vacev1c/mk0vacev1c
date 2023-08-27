@@ -3,9 +3,10 @@
 
 # Milos Kovacevic
 
-💬 You want something unique? Feel free to contact me :-)
-🎯 One thing at a time
-⚡ Fun fact: **Impossible is nothing.**
+### 📚 Fun Fact
+- 💬 You want something unique? Feel free to contact me 🙂
+- 🎯 One thing at a time ⚡
+- Fun fact: Impossible is nothing. 🌟
 
 
 ## Skills 🚀
