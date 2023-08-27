@@ -8,10 +8,29 @@
 ⚡ Fun fact: **Impossible is nothing.**
 
 
-## Skills
-* 💻 HTML / CSS / JavaSript / Node JS / React JS / PHP / Wordpress  
-* 💻 GIT / Jira / SVN
-* 💻 PS / AI / XD / Figma / Corel    https://www.behance.net/m_k0vacev1c_/
+## Skills 🚀
+
+### Programming Languages
+- <img align="center" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> HTML
+- <img align="center" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> CSS
+- <img align="center" alt="Sass" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> Sass
+- <img align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> JavaScript
+- <img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> React JS
+- <img align="center" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> Node JS
+- <img align="center" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" /> MongoDB
+- <img align="center" alt="Express.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" /> Express JS
+
+### Design Tools
+- <img align="center" alt="Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" /> Photoshop
+- <img align="center" alt="Illustrator" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" /> Illustrator
+- <img align="center" alt="Figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" /> Figma
+
+### Tools
+- <img align="center" alt="Linux-command line" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> Linux-command line
+- <img align="center" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> GIT
+- <img align="center" alt="SVN" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svn/svn-original.svg" /> SVN
+- <img align="center" alt="Jenkins" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" /> Jenkins
+- <img align="center" alt="Jira" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" /> Jira
 
 
 # Short story about me
