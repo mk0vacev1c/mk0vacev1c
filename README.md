@@ -36,7 +36,7 @@
 - <img align="center" alt="Jira" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" /> Jira
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk0vacev1c&show_icons=true&theme=tokyonight)
 
 # Short story about me
 
