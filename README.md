@@ -14,6 +14,8 @@
 
 ## Skills 🚀
 
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk0vacev1c&layout=compact" />
+
 ### Programming Languages
 - <img align="center" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> HTML
 - <img align="center" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> CSS
