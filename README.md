@@ -36,6 +36,8 @@
 - <img align="center" alt="Jira" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" /> Jira
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 # Short story about me
 
 👨‍💻 Once upon a time, in the realm of code and creativity, I embarked on a journey as a Software Engineer. With 3 years of experience under my belt, I've evolved into a React enthusiast, crafting digital magic with ⚛️ React and venturing into the vast landscapes of 🌐 Node.js.
