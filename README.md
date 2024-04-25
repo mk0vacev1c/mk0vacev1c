@@ -48,7 +48,7 @@
 
 📚 In the tranquil moments between code wars, I find solace in the company of self-growth books. 📖 With an insatiable hunger for learning, I explore new tools and technologies, forever expanding my arsenal. 🛠️
 
-🚀 I'm on a quest to become a MERN Stack Developer, mastering the arts of MongoDB, Express.js, React, and Node.js. 📦
+🚀 I'm proficient MERN Stack Developer, diving deep into MongoDB, Express.js, React, and Node.js, honing my skills to craft robust web applications. 📦
 
 🥊 But my journey isn't just about code; it's also a tale of resilience and discipline. In a past life, I was an 🥇 Amateur Boxer, a champion of both the national arena and the Balkan battlegrounds. The lessons of sweat and sacrifice from the boxing ring have forged a 💪 strong work ethic and discipline that I carry into all aspects of my life.
 
